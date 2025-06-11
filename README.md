@@ -16,7 +16,7 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 
 ## 📂 Dataset
 - **Name**: Google Play Store App Data
-- **Source**: Kaggle / Provided
+- **Source**: Kaggle
 - **Attributes**: App Name, Category, Rating, Reviews, Size, Installs, Type (Free/Paid), Price, Content Rating, Genres, Last Updated, etc.
 
 ---
