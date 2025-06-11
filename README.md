@@ -49,13 +49,13 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 ## 🔧 Technologies Used
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Plotly
+- Google Collab
 
 ---
 
-Contact
+Contact-
+
 For queries or suggestions:
 
 Name: Khushi Jaswani
