@@ -60,4 +60,4 @@ For queries or suggestions:
 
 Name: Khushi Jaswani
 
-Email: your-khushijaswani64@gmail.com
+Email: khushijaswani64@gmail.com
