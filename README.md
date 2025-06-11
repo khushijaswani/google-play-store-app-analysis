@@ -33,16 +33,17 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 
 ## 🖼️ Sample Visualizations
 
-### 🔹 Highest Competition (Number of A
+### 🔹 Highest Competition (Number of Apps)
 ![Screenshot (16)](https://github.com/user-attachments/assets/fc967ee6-dac8-46f6-a0c3-6fb2bb077ff2)
-pps)
 
 
-### 🔹 Top App Categories
-![Top Categories Bar Chart](images/top_categories_bar.png)
+### 🔹 Most Popular Categories (Highest Downloads)
+![Screenshot (17)](https://github.com/user-attachments/assets/dbd2240b-9075-4260-bcc7-fc321d1654f3)
 
-### 🔹 Ratings Distribution
-![Ratings Histogram](images/ratings_histogram.png)
+
+### 🔹 Free vs. Paid Apps per Category
+![Screenshot (19)](https://github.com/user-attachments/assets/8d00b999-02d3-48e3-8ece-a0bbbc16b1f2)
+
 
 > ℹ️ You can place all images in a folder called `/images/` in the repo.
 
