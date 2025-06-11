@@ -33,8 +33,10 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 
 ## 🖼️ Sample Visualizations
 
-### 🔹 Highest Competition (Number of Apps)
-"C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (16).png"
+### 🔹 Highest Competition (Number of A
+![Screenshot (16)](https://github.com/user-attachments/assets/fc967ee6-dac8-46f6-a0c3-6fb2bb077ff2)
+pps)
+
 
 ### 🔹 Top App Categories
 ![Top Categories Bar Chart](images/top_categories_bar.png)
