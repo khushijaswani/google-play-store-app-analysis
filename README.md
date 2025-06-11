@@ -44,9 +44,6 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 ### 🔹 Free vs. Paid Apps per Category
 ![Screenshot (19)](https://github.com/user-attachments/assets/8d00b999-02d3-48e3-8ece-a0bbbc16b1f2)
 
-
-> ℹ️ You can place all images in a folder called `/images/` in the repo.
-
 ---
 
 ## 🔧 Technologies Used
@@ -57,11 +54,6 @@ To explore and analyze key metrics from the Play Store dataset — such as:
 - Jupyter Notebook
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/google-play-store-app-analysis.git
 
 Contact
 For queries or suggestions:
